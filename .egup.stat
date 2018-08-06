@@ -16,24 +16,6 @@ Change: 2017-07-10 04:00:56.871175263 -0400\
 
 
 
-  File: ./.git\
-
-  Size: 84        	Blocks: 1          IO Block: 512    regular file\
-
-Device: 32h/50d	Inode: 1058179     Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-08-05 03:28:52.096891935 -0400\
-
-Modify: 2017-01-21 23:52:43.532886682 -0500\
-
-Change: 2017-01-21 23:52:43.532886682 -0500\
-
- Birth: -\
-
-
-
   File: ./usr\
 
   Size: 3         	Blocks: 1          IO Block: 512    directory\
