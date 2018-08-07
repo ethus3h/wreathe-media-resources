@@ -1,216 +1,49 @@
-  File: ./CONTRIBUTING.md\
-
-  Size: 356       	Blocks: 2          IO Block: 512    regular file\
-
-Device: 32h/50d	Inode: 378406      Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-02-09 19:40:21.543361100 -0500\
-
-Modify: 2017-07-10 04:00:56.871175263 -0400\
-
-Change: 2017-07-10 04:00:56.871175263 -0400\
-
- Birth: -\
-
-
-
-  File: ./usr\
-
-  Size: 3         	Blocks: 1          IO Block: 512    directory\
-
-Device: 32h/50d	Inode: 216640      Links: 3\
-
-Access: (0755/drwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-08-05 03:28:52.216894264 -0400\
-
-Modify: 2016-10-29 15:44:29.000000000 -0400\
-
-Change: 2016-12-18 00:19:02.563875737 -0500\
-
- Birth: -\
-
-
-
-  File: ./usr/share\
-
-  Size: 3         	Blocks: 1          IO Block: 512    directory\
-
-Device: 32h/50d	Inode: 216897      Links: 3\
-
-Access: (0755/drwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-08-05 03:28:52.226894456 -0400\
-
-Modify: 2016-10-29 15:44:29.000000000 -0400\
-
-Change: 2016-12-18 00:19:02.563875737 -0500\
-
- Birth: -\
-
-
-
-  File: ./usr/share/sounds\
-
-  Size: 3         	Blocks: 1          IO Block: 512    directory\
-
-Device: 32h/50d	Inode: 216899      Links: 3\
-
-Access: (0755/drwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-08-05 03:28:52.226894456 -0400\
-
-Modify: 2016-10-29 15:44:29.000000000 -0400\
-
-Change: 2016-12-18 00:19:02.563875737 -0500\
-
- Birth: -\
-
-
-
-  File: ./usr/share/sounds/sf2\
-
-  Size: 7         	Blocks: 3          IO Block: 512    directory\
-
-Device: 32h/50d	Inode: 216903      Links: 2\
-
-Access: (0755/drwxr-xr-x)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-08-05 03:28:52.226894456 -0400\
-
-Modify: 2017-05-30 21:36:43.830439250 -0400\
-
-Change: 2017-05-30 21:36:43.830439250 -0400\
-
- Birth: -\
-
-
-
-  File: ./usr/share/sounds/sf2/TimGM6mb.sf2\
-
-  Size: 5969788   	Blocks: 11322      IO Block: 131072 regular file\
-
-Device: 32h/50d	Inode: 217808      Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2017-05-18 17:13:54.155815660 -0400\
-
-Modify: 2016-10-29 15:44:30.000000000 -0400\
-
-Change: 2016-12-18 00:19:04.133960471 -0500\
-
- Birth: -\
-
-
-
-  File: ./usr/share/sounds/sf2/GeneralUser GS LICENSE.txt\
-
-  Size: 2238      	Blocks: 4          IO Block: 2560   regular file\
-
-Device: 32h/50d	Inode: 217806      Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2017-05-30 21:31:47.975678835 -0400\
-
-Modify: 2016-10-29 15:44:30.000000000 -0400\
-
-Change: 2016-12-18 00:19:03.433922688 -0500\
-
- Birth: -\
-
-
-
-  File: ./usr/share/sounds/sf2/GeneralUser GS MuseScore v1.44.sf2\
-
-  Size: 31277452  	Blocks: 57434      IO Block: 131072 regular file\
-
-Device: 32h/50d	Inode: 217807      Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2017-05-18 17:13:54.155815660 -0400\
-
-Modify: 2016-10-29 15:44:30.000000000 -0400\
-
-Change: 2016-12-18 00:19:04.033955072 -0500\
-
- Birth: -\
-
-
-
-  File: ./usr/share/sounds/sf2/LICENSE-TimGM6mb.sf2.txt\
-
-  Size: 952       	Blocks: 3          IO Block: 2048   regular file\
-
-Device: 32h/50d	Inode: 3184556     Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2017-05-30 21:36:45.640458171 -0400\
-
-Modify: 2017-05-30 21:35:08.829316673 -0400\
-
-Change: 2017-05-30 21:36:43.830439250 -0400\
-
- Birth: -\
-
-
-
-  File: ./usr/share/sounds/sf2/GeneralUser GS FluidSynth v1.44.sf2\
-
-  Size: 31276230  	Blocks: 57435      IO Block: 131072 regular file\
-
-Device: 32h/50d	Inode: 217772      Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2017-05-18 17:13:54.155815660 -0400\
-
-Modify: 2016-10-29 15:44:30.000000000 -0400\
-
-Change: 2016-12-18 00:19:03.433922688 -0500\
-
- Birth: -\
-
-
-
-  File: ./README.md\
-
-  Size: 323       	Blocks: 2          IO Block: 512    regular file\
-
-Device: 32h/50d	Inode: 217728      Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-07-07 00:20:22.118074858 -0400\
-
-Modify: 2016-10-29 15:44:29.000000000 -0400\
-
-Change: 2016-12-18 00:19:02.043847680 -0500\
-
- Birth: -\
-
-
-
-  File: ./CODE_OF_CONDUCT.md\
-
-  Size: 3229      	Blocks: 4          IO Block: 3584   regular file\
-
-Device: 32h/50d	Inode: 378405      Links: 1\
-
-Access: (0644/-rw-r--r--)  Uid: ( 1000/    kyan)   Gid: ( 1000/    kyan)\
-
-Access: 2018-02-09 19:40:21.543361100 -0500\
-
-Modify: 2017-07-10 04:00:56.871175263 -0400\
-
-Change: 2017-07-10 04:00:56.871175263 -0400\
-
- Birth: -\
-
-
+3.1.2.5.14.111
+./CONTRIBUTING.md
+:
+f:644:1000:kyan:1000:kyan:2017:07:10:04:00:56.8711752630:EDT:2017:07:10:04:00:56.8711752630:EDT
+
+./usr
+:
+d:755:1000:kyan:1000:kyan:2016:10:29:15:44:29.0000000000:EDT:2016:12:18:00:19:02.5638757370:EST
+
+./usr/share
+:
+d:755:1000:kyan:1000:kyan:2016:10:29:15:44:29.0000000000:EDT:2016:12:18:00:19:02.5638757370:EST
+
+./usr/share/sounds
+:
+d:755:1000:kyan:1000:kyan:2016:10:29:15:44:29.0000000000:EDT:2016:12:18:00:19:02.5638757370:EST
+
+./usr/share/sounds/sf2
+:
+d:755:1000:kyan:1000:kyan:2017:05:30:21:36:43.8304392500:EDT:2017:05:30:21:36:43.8304392500:EDT
+
+./usr/share/sounds/sf2/TimGM6mb.sf2
+:
+f:644:1000:kyan:1000:kyan:2016:10:29:15:44:30.0000000000:EDT:2016:12:18:00:19:04.1339604710:EST
+
+./usr/share/sounds/sf2/GeneralUser GS LICENSE.txt
+:
+f:644:1000:kyan:1000:kyan:2016:10:29:15:44:30.0000000000:EDT:2016:12:18:00:19:03.4339226880:EST
+
+./usr/share/sounds/sf2/GeneralUser GS MuseScore v1.44.sf2
+:
+f:644:1000:kyan:1000:kyan:2016:10:29:15:44:30.0000000000:EDT:2016:12:18:00:19:04.0339550720:EST
+
+./usr/share/sounds/sf2/LICENSE-TimGM6mb.sf2.txt
+:
+f:644:1000:kyan:1000:kyan:2017:05:30:21:35:08.8293166730:EDT:2017:05:30:21:36:43.8304392500:EDT
+
+./usr/share/sounds/sf2/GeneralUser GS FluidSynth v1.44.sf2
+:
+f:644:1000:kyan:1000:kyan:2016:10:29:15:44:30.0000000000:EDT:2016:12:18:00:19:03.4339226880:EST
+
+./README.md
+:
+f:644:1000:kyan:1000:kyan:2016:10:29:15:44:29.0000000000:EDT:2016:12:18:00:19:02.0438476800:EST
+
+./CODE_OF_CONDUCT.md
+:
+f:644:1000:kyan:1000:kyan:2017:07:10:04:00:56.8711752630:EDT:2017:07:10:04:00:56.8711752630:EDT
 
